@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YE7c4Jd8Yf8DN8G0N+hY+lo7J+v5cC0THA/+VZhPMy6YWFNZ77U2d9mWUBw0gBMVXMjF93WvLcxYO7ePtGgiDw==",
+  "dgSpecHash": "El82CTpmwizVRA7cIiM9LNUgjcfULkTtf1obGQWa//kDtJ49svy8dvV8kiFndbA2q/ceP6g1k6vjw016uTpL6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\EcoWattServer\\EcoWattServer.csproj",
+  "projectFilePath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\EcoWattServer\\EcoWattServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liashenko.y\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\liashenko.y\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

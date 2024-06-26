@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoWattServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae840f3ea367cc49d6c9bfd74541689fce0c50d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16990c1ec6d9e90ca374afd002386cea7319ed63")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoWattServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoWattServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

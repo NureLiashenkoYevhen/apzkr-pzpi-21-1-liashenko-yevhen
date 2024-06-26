@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u/6MjKi0CnxcBwxPS7aPlSJGg6xKPZBXmT3naaPdHtUlSdDAH2v1qQGJ7B0Y7NlZY+3O8rs5HDuhJam76nnUZg==",
+  "dgSpecHash": "FbnzFePxizq3TZn6jp+Sb4amaKxa9vIAxCnIcMZzp0bRL22qIzRXAOqLk/9XtO2n1nX7ZwF1Hilz7tYfYDPxLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liashenko.y\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\liashenko.y\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

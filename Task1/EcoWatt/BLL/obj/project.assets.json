@@ -3869,11 +3869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\liashenko.y\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3895,11 +3895,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj"
+            "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj"
             },
-            "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj"
+            "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj"
             }
           }
         }

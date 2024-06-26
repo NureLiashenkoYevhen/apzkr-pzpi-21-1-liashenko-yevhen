@@ -8,7 +8,6 @@ using BLL.Notifications;
 using BLL.Statistics;
 using BLL.Users;
 using BLL.Validation;
-using Core.Entities;
 using DAL.Data;
 using EcoWattServer.Filters;
 using EcoWattServer.Migrations;

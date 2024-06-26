@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj": {}
+    "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj": {
+    "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\liashenko.y\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\obj\\",
+        "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj": {
+    "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\liashenko.y\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apz-pzpi-21-1-liashenko-yevhen\\Task2\\EcoWatt\\Core\\Core.csproj"
+              "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\liashenko.y\\source\\repos\\apzkr-pzpi-21-1-liashenko-yevhen\\Task1\\EcoWatt\\Core\\Core.csproj"
               }
             }
           }
